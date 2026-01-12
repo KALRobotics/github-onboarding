@@ -4,4 +4,4 @@ People who completed GitHub onboarding!
 
 Add your name via Pull Request:
 
-- (Your name here!)
+| Zeynep Su Gezgin | Member | Software | Jan 2026 |
